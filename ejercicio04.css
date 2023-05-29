@@ -1,0 +1,21 @@
+.cuadrado1{
+    background-color: red;
+}
+.cuadrado2{
+    background-color: green;
+}
+.cuadrado3{
+    background-color: blue;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cua{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
